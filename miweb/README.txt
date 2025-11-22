@@ -1,7 +1,7 @@
 Landing Page Personal - Jonathan Cueva
 
 URL del sitio: [https://mipaginaid.gamer.gd/?i=1](https://mipaginaid.gamer.gd/?i=1)  
-Repositorio en GitHub: [Ver código en GitHub](https://github.com/)
+Repositorio en GitHub: [https://github.com/jcueva-proyectos/Proyectos/tree/a95b112d44c7103a48bb520b55ea3193e7562fef/miweb)
 
 Descripción
 
@@ -49,7 +49,7 @@ Puedes ver la página en funcionamiento aquí:
 Código fuente
 
 El código estará disponible en el siguiente repositorio:  
-👉 [https://github.com/](https://github.com/)
+👉 [https://github.com/jcueva-proyectos/Proyectos/tree/a95b112d44c7103a48bb520b55ea3193e7562fef/miweb)
 
 ---------------------------------------------------------------------
 
